@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Relogio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a8fed6ab5db8b2e92757d62d81747ff48767cac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1aa7e93d003759713196131e632f569e04ba72")]
 [assembly: System.Reflection.AssemblyProductAttribute("Relogio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Relogio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
